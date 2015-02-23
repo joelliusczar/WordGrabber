@@ -1,0 +1,18 @@
+c:\users\joel.pridgen\documents\visual studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\obj\Debug\RegexReformat.csprojResolveAssemblyReference.cache
+c:\users\joel.pridgen\documents\visual studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\obj\Debug\RegexGetColumnNames.Form1.resources
+c:\users\joel.pridgen\documents\visual studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\obj\Debug\RegexGetColumnNames.Properties.Resources.resources
+c:\users\joel.pridgen\documents\visual studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\obj\Debug\RegexReformat.csproj.GenerateResource.Cache
+c:\users\joel.pridgen\documents\visual studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\bin\Debug\RegexGetColumnNames.exe.config
+c:\users\joel.pridgen\documents\visual studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\bin\Debug\RegexGetColumnNames.exe
+c:\users\joel.pridgen\documents\visual studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\bin\Debug\RegexGetColumnNames.pdb
+c:\users\joel.pridgen\documents\visual studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\obj\Debug\RegexGetColumnNames.exe
+c:\users\joel.pridgen\documents\visual studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\obj\Debug\RegexGetColumnNames.pdb
+C:\Users\Joellius\Code\RegexWordGrabber\RegexWordGrabber\bin\Debug\RegexGetColumnNames.exe.config
+C:\Users\Joellius\Code\RegexWordGrabber\RegexWordGrabber\obj\Debug\RegexGetColumnNames.exe
+C:\Users\Joellius\Code\RegexWordGrabber\RegexWordGrabber\obj\Debug\RegexGetColumnNames.pdb
+C:\Users\Joellius\Code\RegexWordGrabber\RegexWordGrabber\bin\Debug\RegexGetColumnNames.exe
+C:\Users\Joellius\Code\RegexWordGrabber\RegexWordGrabber\bin\Debug\RegexGetColumnNames.pdb
+C:\Users\Joellius\Code\RegexWordGrabber\RegexWordGrabber\obj\Debug\RegexReformat.csprojResolveAssemblyReference.cache
+C:\Users\Joellius\Code\RegexWordGrabber\RegexWordGrabber\obj\Debug\RegexGetColumnNames.Form1.resources
+C:\Users\Joellius\Code\RegexWordGrabber\RegexWordGrabber\obj\Debug\RegexGetColumnNames.Properties.Resources.resources
+C:\Users\Joellius\Code\RegexWordGrabber\RegexWordGrabber\obj\Debug\RegexReformat.csproj.GenerateResource.Cache

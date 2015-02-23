@@ -1,0 +1,17 @@
+C:\Users\joel.pridgen\Documents\Visual Studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\bin\Release\RegexGetColumnNames.exe.config
+C:\Users\joel.pridgen\Documents\Visual Studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\bin\Release\RegexGetColumnNames.exe
+C:\Users\joel.pridgen\Documents\Visual Studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\bin\Release\RegexGetColumnNames.pdb
+C:\Users\joel.pridgen\Documents\Visual Studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\obj\Release\RegexGetColumnNames.Form1.resources
+C:\Users\joel.pridgen\Documents\Visual Studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\obj\Release\RegexGetColumnNames.Properties.Resources.resources
+C:\Users\joel.pridgen\Documents\Visual Studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\obj\Release\RegexReformat.csproj.GenerateResource.Cache
+C:\Users\joel.pridgen\Documents\Visual Studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\obj\Release\RegexGetColumnNames.exe
+C:\Users\joel.pridgen\Documents\Visual Studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\obj\Release\RegexGetColumnNames.pdb
+C:\Users\Joellius\Code\RegexGetColumnNames\RegexGetColumnNames\bin\Release\RegexGetColumnNames.exe.config
+C:\Users\Joellius\Code\RegexGetColumnNames\RegexGetColumnNames\obj\Release\RegexGetColumnNames.exe
+C:\Users\Joellius\Code\RegexGetColumnNames\RegexGetColumnNames\obj\Release\RegexGetColumnNames.pdb
+C:\Users\Joellius\Code\RegexGetColumnNames\RegexGetColumnNames\bin\Release\RegexGetColumnNames.exe
+C:\Users\Joellius\Code\RegexGetColumnNames\RegexGetColumnNames\bin\Release\RegexGetColumnNames.pdb
+C:\Users\Joellius\Code\RegexGetColumnNames\RegexGetColumnNames\obj\Release\RegexReformat.csprojResolveAssemblyReference.cache
+C:\Users\Joellius\Code\RegexGetColumnNames\RegexGetColumnNames\obj\Release\RegexGetColumnNames.Form1.resources
+C:\Users\Joellius\Code\RegexGetColumnNames\RegexGetColumnNames\obj\Release\RegexGetColumnNames.Properties.Resources.resources
+C:\Users\Joellius\Code\RegexGetColumnNames\RegexGetColumnNames\obj\Release\RegexReformat.csproj.GenerateResource.Cache

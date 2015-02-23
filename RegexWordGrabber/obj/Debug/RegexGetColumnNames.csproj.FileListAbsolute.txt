@@ -1,0 +1,1 @@
+c:\users\joel.pridgen\documents\visual studio 2012\Projects\RegexGetColumnNames\RegexGetColumnNames\bin\Debug\RegexGetColumnNames.exe.config
